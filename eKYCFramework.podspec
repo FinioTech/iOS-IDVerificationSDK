@@ -142,7 +142,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'eKYCFramework'
-  s.version          = '1.0'
+  s.version          = '0.0.1'
   s.summary          = 'SDK for detecting objects, recognize,crop and validation of NID and user image bia apis.'
 
   s.description      = <<-DESC
